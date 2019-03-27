@@ -1,5 +1,5 @@
 # memozytorium
-_MMD - Meme Driven Development_
+_MDD - Meme Driven Development_
 
 **Memozytorium** to backup memów z fanpage 💩 http://fb.com/trolololodev. 
 

@@ -1,0 +1,1 @@
+Twoja stara jest tak wielka, że nawet #Dijkstra nie mógł znaleźć najkrótszej drogi żeby ją obejść.

@@ -1,0 +1,1 @@
+In Poland we don’t say „I'm going to deploy.” we say „ja pierdole kurwa, kto to tak zjebał, chuja tam, nie merguje, nadpisuje wszystko swoimi i niech na produkcji sobie testują, jednostkowe w głowie sobie odpaliłem jest kurwa wszystko zielono, sam pisalem. wiem co sprawdzają, już robię zipa i przerzucam pliki na ftpa. JESTEM KURWA ZAJEBISTY.” and I think it’s beautiful.

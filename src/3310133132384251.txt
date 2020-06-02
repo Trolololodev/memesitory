@@ -1,0 +1,3 @@
+senior: Skąd masz ten kod?
+junior: Ze Stack Overflow.
+senior: A z pytania czy z odpowiedzi? *doświadczenie przychodzi z czasem*

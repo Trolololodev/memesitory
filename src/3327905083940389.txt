@@ -1,0 +1,2 @@
+#BlackIDEMatter
+Czarne IDE w kropki bordo z Monokai międzymordą.

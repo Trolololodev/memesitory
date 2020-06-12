@@ -1,0 +1,14 @@
+**12 kłamstw, które możesz powiedzieć na daily gdy się opierdalasz.** 🤥🤥🤥🤥🤥🤥🤥🤥
+
+1.To samo co wczoraj. Nic nowego do dodania.
+2. Yesterday I had Windows automatic update. Haven’t really managed to do anything more than that.
+3. Wczoraj to nic, bo były wrzutki na szybko ze starego projektu.
+4. U mnie budowanie kontenerów/dump bazy/snapshot virtualki żeby odtworzyć sobie lokalnie środowisko produkcyjne do debugu.
+5. Wywaliło się środowisko i stawiam je od nowa.
+6. Sprawdzałem(łam) czy można usprawnić działanie {TUTAJ_COŚ_NA_CO_WSZYSCY_NARZEKAJĄ_W_PROJEKCIE}. Niestety jak na razie bez rezultatu. Taska w Jirze na to nie mam, nie chciałem(łam) marnować czasu.
+6. Czekam na review, ale aktywnie.
+8. Jestem na czysto. Od góry z backlogu będę robić.
+9. Investigating spike for proof of concept.
+10. Myślałem(łam), że dane w bazie się nam rozjeżdżają.  Posprawdzałem(łam) wszytko, na szczęście jest dobrze, tak ma działać, klient może być spokojny.
+11. Teraz tylko testuję bo już dawno zrobione.
+12. Znalazłem(łam) błąd, od razu udało się naprawić.

@@ -1,0 +1,4 @@
+Ways to kill parent and child in one command.
+
+Myślisz, że to Stalin a to tylko Linux.
+(kill -9 -$PGID)

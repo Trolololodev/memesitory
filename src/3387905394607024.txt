@@ -1,0 +1,3 @@
+Tłumaczenia w naszym systemie: 
+pl.json, en.json, de.json
+Dziś wpadł task na węgierski. XD

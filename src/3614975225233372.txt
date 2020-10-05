@@ -1,0 +1,3 @@
+🔗
+Q: Jak wygląda u Ciebie sprawa z wyjściami integracyjnymi?
+A: Integracja? Integracja to tylko po API.

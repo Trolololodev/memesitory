@@ -9,4 +9,5 @@ have fun 😂
 
 PS.
 Wpadaj na Blog ✅ [Problemy Polskiej Branzy IT](https://ppbit.pl/)
+
 Sprawdź też 📈 [15k++](http://15kplusplus.pl/)
